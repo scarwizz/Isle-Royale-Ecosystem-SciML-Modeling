@@ -1,0 +1,68 @@
+year_start,year_end,winter_study_year,wolves,moose,num_packs,kill_rate_moose_per_wolf_per_month,predation_rate_pct,wolf_recruitment_rate_pct,wolf_survival_rate_pct,moose_calf_pct,avg_snow_depth_cm,avg_temperature_c,balsam_fir_terminal_browse_pct,balsam_fir_annual_height_growth_cm,fox_abundance_index,hare_index_per_100km_hiked,active_beaver_sites,moose_per_wolf_ratio,notes
+1958,1959,1959,20,563,2,,,,,,,,,,,,,28.1,Study Year 1. Lead researcher: L.D. Mech. Moose est=population reconstruction. East+West packs. Report title: Studies of the Timber Wolf in Isle Royale NP
+1959,1960,1960,22,556,2,,,,,,,,,,,,,25.3,Lead researcher: L.D. Mech. Moose reconstruction estimate
+1960,1961,1961,22,639,2,,,,,,,,,,,,,29.0,Lead researcher: L.D. Mech
+1961,1962,1962,23,668,2,,,,,,,,,,,,,29.0,Lead researcher: P.C. Shelton. Report: Ecological Studies of Beavers Wolves and Moose
+1962,1963,1963,20,717,2,,,,,,,,,,,,,35.9,Lead researcher: P.C. Shelton
+1963,1964,1964,26,727,2,,,,,,,,,,,,,28.0,Lead researcher: P.A. Jordan. Report: Ecology and Coactions of the Moose on Isle Royale
+1964,1965,1965,28,773,2,,,,,,,,,,,,,27.6,Lead researcher: P.A. Jordan. Report: Studies of the Moose and Wolves of Isle Royale
+1965,1966,1966,26,898,2,,,,,,,,,,,,,34.5,Lead researcher: P.A. Jordan
+1966,1967,1967,22,1039,2,,,,,,,,,,,,,47.2,Lead researchers: W.J. Johnson/M.L. Wolfe Jr./D.L. Allen. Report: Community Relationships and Population Dynamics of Terrestrial Mammals. NOTE: No 1967-68 report in archives; next available report is 1968-69
+1968,1969,1969,17,1299,2,,,,,,,,,,,,,76.4,Lead researchers: W.J. Johnson/M.L. Wolfe Jr./D.L. Allen. NOTE: No 1967-68 study year report available in archives
+1969,1970,1970,18,1348,2,,,,,,,,,,,,,74.9,Lead researchers: W.J. Johnson/M.L. Wolfe Jr./D.L. Allen
+1970,1971,1971,20,1522,2,,,,,,,,,,,,,76.1,R.O. Peterson takes over study. Study moved to Michigan Technological University (from Purdue in 1975)
+1971,1972,1972,20,1583,2,,,,,,,,,,,,,79.2,R.O. Peterson. Kill rate monitoring begins (1971 onward); individual year values vary by study
+1972,1973,1973,23,1494,2,,,,,,,,,,,,,65.0,R.O. Peterson
+1973,1974,1974,24,1178,2,,,,,,,,,,,,,49.1,R.O. Peterson
+1974,1975,1975,41,1027,3,,,,,,,,,,,,,25.0,R.O. Peterson. Middle Pack established. East Pack: 18 wolves; West Pack: 10; trio+loner at SW end
+1975,1976,1976,44,1072,3,,,,,,,,,,,,,24.4,R.O. Peterson. Wolf population near all-time high (44). East Pack 17; West 9; Middle 4
+1976,1977,1977,34,1072,3,,,,,,,,,,,,,31.5,R.O. Peterson. MTU becomes permanent home of study
+1977,1978,1978,40,1072,3,,,,,,,,,,,,,26.8,R.O. Peterson. Snow depth monitoring begins (1974 onward)
+1978,1979,1979,43,939,3,,,,,,,,,,,,,21.8,R.O. Peterson. Wolf population building to peak
+1979,1980,1980,50,861,3,,,,,,,,,,,,,17.2,R.O. Peterson. ALL-TIME WOLF MAXIMUM (50). Canine parvovirus introduced by visitor's dog this summer
+1980,1981,1981,30,650,2,,,,,,,,,,,,,21.7,Parvovirus crash: wolf population plummeted 50->30. Lowest kill rate ever observed that year (well below avg 0.70). Fox/hare monitoring begins 1974
+1981,1982,1982,14,700,2,,,,,,,,,,,,,50.0,Continued crash to 14 wolves. Population near collapse. Inbreeding consequences begin
+1982,1983,1983,23,900,2,,,,,,,,,,,,,39.1,Wolf population begins partial recovery
+1983,1984,1984,24,811,2,,,,,,,,,,,,,33.8,
+1984,1985,1985,22,1062,2,,,,,,,,,,,,,48.3,
+1985,1986,1986,20,1025,2,,,,,,,,,,,,,51.2,
+1986,1987,1987,16,1380,2,,,,,,,,,,,,,86.2,Moose growing rapidly as wolves declined post-parvovirus
+1987,1988,1988,12,1653,2,,,,,,,,,,,,,137.8,
+1988,1989,1989,11,1397,2,,,,,,,,,,,,,127.0,Moosewatch volunteer program established 1988
+1989,1990,1990,15,1216,2,,,,,,,,,,,,,81.1,
+1990,1991,1991,12,1313,2,,,,,,,,,,,,,109.4,
+1991,1992,1992,12,1600,2,,,,,,,,,,,,,133.3,Highest kill rate EVER observed in winter 1992
+1992,1993,1993,13,1880,2,,,,,,,,,,,,,144.6,Moose continues rising to near-record levels
+1993,1994,1994,15,1800,2,,,,,,,,,,,,,120.0,
+1994,1995,1995,16,2400,2,,,,,,,,,,,,,150.0,MOOSE NEAR ALL-TIME HIGH (~2400). Inbreeding coefficient F approaching 0.8 by late 1990s
+1995,1996,1996,22,1200,2,,,,,,,,,,,,,54.5,MOOSE CRASH BEGINS: most severe winter in a century + unexpected moose tick outbreak + high density -> 80% decline by 1997
+1996,1997,1997,24,500,2,,,,,,,,,,,,,20.8,Moose population collapsed to 500 (80% decline). Starvation primary cause. Wolf inbreeding F~0.8
+1997,1998,1998,14,700,2,,,,,,,,,,,,,50.0,GENETIC RESCUE: Wolf no. 93 (Old Gray Guy) walked from mainland Ontario on ice bridge. Inbreeding coefficient drops from ~0.8 to <0.2 within 5 years. Wolf 93's ancestry grows to >50% of population by 2010
+1998,1999,1999,25,750,2,,,,,,,,,,,,,30.0,Wolf population rebounds after genetic rescue. Wolf 93 begins mating 2000
+1999,2000,2000,29,850,3,,,,,,,,,,,,,29.3,
+2000,2001,2001,19,900,3,,,,,,,,,,,,,47.4,Wolf 93 begins mating with daughter in 2002; inbreeding rises again
+2001,2002,2002,17,1000,2,,,,,,,,,,,,,58.8,
+2002,2003,2003,19,900,3,,,,,,,,,,,,,47.4,From 2002: moose aerial survey method replaces reconstruction for estimates
+2003,2004,2004,29,750,3,,,,,,,,,,,,,25.9,
+2004,2005,2005,30,540,3,,,,,,,,,,,,,18.0,Moose declining sharply
+2005,2006,2006,30,385,3,,,,,,,,,,,,133,12.8,MOOSE HISTORIC LOW (385). 30 wolves despite low moose (food scarce). Active beaver sites: 133
+2006,2007,2007,21,450,3,,,,,,,,,,,,92,21.4,Moose begins very slow recovery. Active beaver sites: 92 (wolves killed many beavers). Fox index monitoring ongoing
+2007,2008,2008,23,650,3,,,,,,,,,,,,,28.3,Winter ticks peaked 2007. Wolf inbreeding worsening. LSTV spinal deformity rate: >80% by late 1990s
+2008,2009,2009,24,530,3,,,,,,,,,,,,,22.1,Wolf population decline begins April 2009. Parvovirus/adenovirus antibodies detected in wolves
+2009,2010,2010,19,510,3,,,,,,,,,,,,,26.8,Wolf rapid decline 24->19. Inbreeding depression increasingly affecting survival/reproduction
+2010,2011,2011,16,515,2,,,,,,,,,,,,,32.2,Wolf decline continues: 19->16. Mine pit drowning killed 3 wolves 2011-2012
+2011,2012,2012,9,750,2,,3.3,0.0,,,,,,,,,,83.3,Wolf declined to 9 (62% decline since 2009). Predation rate 3.3% (low). Zero recruitment. Moose recovering
+2012,2013,2013,8,975,2,1.3,2.4,0.0,89.0,21.0,30,,,,,,168,121.9,WOLF ALL-TIME LOW (8). First year with zero pup production in project history. Kill rate 1.3 moose/wolf/month (near record high due to 122 moose/wolf ratio). Predation rate 2.4% (record low). Moose calf 21% (near record high). Moose mortality 11%. Snow depth 30cm (below avg 44cm). Active beaver sites 168 (69% increase since 2010 as wolf predation dropped)
+2013,2014,2014,9,1050,2,,,,,,,,,,,,,116.7,Wolf population remains critically low. Moose continues recovery toward long-term average
+2014,2015,2015,3,1250,1,,,,,,,,,,,,,416.7,Wolf at existential crisis level (3). 2 packs became 1 group. NPS begins planning wolf translocation under Endangered Species Act
+2015,2016,2016,2,1300,1,,,,,,,,,20.0,,,,650.0,Only 2 non-reproducing wolves remain. Island essentially without wolf predation. Moose browsing on balsam fir remains low. Balsam fir sapling height growth ~20cm/yr (healthy - low browsing)
+2016,2017,2017,2,1600,1,,,,,,,,,20.0,,,,800.0,2 non-reproducing wolves. Moose density rising rapidly -> increasing balsam fir browse pressure. Balsam fir growth ~20cm (still relatively healthy)
+2017,2018,2018,2,1500,1,,,,,,,,,18.0,,,,750.0,NPS wolf translocation authorized. 2 remaining wolves (both old). Browse pressure: <20% of fir saplings browsed. Balsam fir growth ~18cm
+2018,2019,2019,14,2060,2,,,,,,,,80.0,,,,,147.1,19 wolves translocated by NPS (Sept 2018-March 2019): 4 from Minnesota; 3 from mainland Ontario; 8 from Michipicoten Island; then 4 from Michigan Sept 2019. 1 litter born April 2019. Wolf count 14 by March 2019. MOOSE PEAK (~2060). Balsam fir browse: ~80% of saplings terminally browsed (alarming high)
+2019,2020,2020,12,1876,4,,4.5,,,,,,80.0,,,,,156.3,Wolf: likely 12 possibly 14 (furtive behavior; aircraft avoidance). 4 social groups. Moose declined 9% (2060->1876). Predation rate 4.5% (below avg). Balsam fir terminal browse ~80% saplings. 25 moose GPS-collared March 2020
+2020,2021,2021,,,,,,,,,,,,,,,,,NO WINTER SURVEY - COVID-19 pandemic prevented all winter fieldwork. Summer fieldwork continued. Two litters born 2020 confirmed
+2021,2022,2022,28,1346,2,,8.7,,,,,,,,,,,48.1,Wolf population doubled (12->28) over 2 years. 2 main packs (East 13+ wolves; West 13+ wolves). 2 litters born April 2020; 2 litters born April 2021. Predation rate 8.7% (highest since 2011). Moose declined 28% (1876->1346). Malnutrition important cause of moose death 2019-2022. 19 moose GPS-collared Feb 2022
+2022,2023,2023,31,967,3,0.52,10.0,25.0,86.0,1.7,,,,,20.3,,,31.2,3 packs: East(11 wolves incl 12M); West(5 wolves incl 7M); others(~15). 3 possibly 4 litters born April 2022 (first time 4 litters since ~2002). Wolf recruitment 25% (similar to long-term avg 28%). Wolf survival 86% (above long-term avg 74%). Kill rate 0.52 moose/wolf/month (below long-term avg 0.70). Predation rate 10% (at long-term avg). Moose calves 1.7% (VERY LOW vs avg 13%). 26 moose killed by wolves in 49 days. Moose declined 28% (1346->967). Fox abundance index 20.3
+2023,2024,2024,30,840,4,,,,,5.5,,,,3.5,,4.39,,28.0,4 packs for first time since 2011: West(4+); Middle(7+); East(13+); Northeast(5+). Moose calves <6% (5.5%; low vs avg 13%). Moose declined 13% (967->840). Study ended early due to unseasonably warm weather. Balsam fir sapling height growth 3.5cm (near record low; was 18-20cm in healthy years). Hare index 4.39. Wolf predation: 86-92% of moose deaths attributed to wolves
+2024,2025,2025,,,,,,,,,,,,3.5,,,,,NO WINTER SURVEY - aviation resources unexpectedly unavailable shortly before start of season. Summer fieldwork continued. Balsam fir sapling height growth 3.5cm (still at record low). Sapling survival <80% (also record low). Tick burden: avg 57% hair loss (close to long-term avg 51%). Some moose had 98% hair damage. 115 moose discovered; 86% killed by wolves. Two adult bulls found dead with antlers locked (only 4th such occurrence in 65+ years)
+2025,2026,2026,37,524,3,0.56,24.0,,,0.0,56,-8.3,4.0,2.7,20.3,3.9,,14.2,WOLF NEAR-HISTORIC HIGH (37 wolves; highest since 1979). 524 moose (approaching all-time low 385 in 2006). 3 packs: West(13 wolves); East(12 wolves); Northeast(12 wolves). All 3 packs raised pups summer 2025; all showed courtship/breeding Feb 2026. ZERO CALVES observed during census - FIRST TIME IN 68-YEAR HISTORY. Kill rate 0.56 moose/wolf/month. Predation rate 24% (ONE OF HIGHEST EVER; avg=10%). 28 moose killed by wolves in 41 days. 88% of annual moose deaths from wolf predation. Balsam fir terminal browse rate: 4% of saplings (down from >80% in 2019-2021; showing decline in browsing pressure). Balsam fir height growth 2.7cm (RECORD LOW; expected ~20cm in healthy years). Fir trees have not recovered despite 4 years of lower browsing. Ice bridge formed connecting Isle Royale to mainland Jan-mid Feb 2026. Avg snow depth 56cm (above long-term avg 46.5cm). Avg temperature -8.3C. Ramsonde hardness 8.7 (low snowpack density). Fox abundance index 20.3. Hare index 3.9 hares/100km hiked. Otter tracks on 47 sq-mile sections (down from 83 in 2023). Wolf predation on otters observed for first time in winter
